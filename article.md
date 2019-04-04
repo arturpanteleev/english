@@ -46,3 +46,5 @@ I am a teacher. – Я учитель.
 Внимание! The cinema, the theatre, the radio, НО television (without the).
 
 Внимание! Breakfast, lunch, dinner, НО We had a very nice dinner (если есть прилагательное).
+
+![](media/article.jpg)
