@@ -33,9 +33,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | – Hi, Mary! Let's go to the restaurant today! – Hi, Tom! I am so sorry, but **I am snowed under** with work.  – Really? Are you OK? – Don't worry, I am **as right as rain**. – So, when will you be able to go for a walk with me? – Hmm… I think that next week I will be free. – OK, I will call you! – See you! | – Привет, Мери! Давай сходим в ресторан сегодня! – Привет, Том! К сожалению, я **загружена работой**. – Правда? С тобой все в порядке? – Не переживай, я **в полном порядке**. – Так когда ты сможешь прогуляться со мной? – Хмм… Думаю, что на следующей неделе я буду свободна. – Хорошо, я позвоню! – До встречи! |
 
- 
-
-## Деньги
+##  Деньги
 
 Не менее популярная тема, вызывающая интерес — это, конечно, деньги. Предлагаем ознакомиться с наиболее распространенными «денежными» идиомами.
 
@@ -60,13 +58,9 @@
 - **cost a fortune** – стоить целое состояние
 - **on the breadline** – за чертой бедности
 
- 
-
 | Оригинал                                                     | Перевод                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | – Kate, our car is too old. Let's buy a new one! How do you think? – Good idea! What car would you like? – I would prefer that one. – You must be joking! It **costs a fortune**! – Don't worry, I **made a bundle**by my last contract. – Nice, and I could share too. I have some **nest egg**. – So, I will go to the auto show tomorrow. – OK, I will join you there. | – Кейт, наша машина слишком старая. Давай купим новую! Как ты думаешь? – Это неплохая идея. Какую машину ты бы хотел? – Я бы предпочел эту. – Ты должно быть шутишь! Она **стоит целое состояние**! – Не переживай, я **заработал кучу денег** на последнем контракте.  – Ладно, я тоже смогла бы поучаствовать. У меня есть **небольшая заначка**. – И так, завтра я пойду в автосалон. – Хорошо, я присоединюсь к тебе там. |
-
- 
 
 ## Время
 
@@ -92,8 +86,6 @@
 - **on the spur of the moment** – с наскока
 - **in broad daylight** – среди бела дня
 - **catch unawares** – застигнуть врасплох
-
- 
 
 | Оригинал                                                     | Перевод                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -124,8 +116,6 @@
 - **butterflies in the stomach** – ни жив, ни мертв
 - **like water off a duck's back** – как с гуся вода
 
- 
-
 | Оригинал                                                     | Перевод                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | – Mark, who do you think we should give some bonus for the previous month? – I don't know. Who are the main candidates?  – So, there are Lucy, Michael and Judy. – I think that Lucy works a lot, but she is **a black sheep** of the team. – Yes, I agree with you. What do you think about Michael? – It seems to me that he is **an eager beaver**. – But he is **in the doghouse**, isn't he? – Yes, our boss doesn't like him. And what about Judy? – I like her. She is always **as busy as a bee**. – You're right. She deserves our company's bonus. | – Марк, как ты думаешь, кому нам следует дать премию за последний месяц? – Я не знаю. Кто основные претенденты? – Итак, это Люси, Майкл и Джуди. – Я думаю, что Люси работает много, но она **белая ворона** в команде. – Да, я согласен с тобой. Что ты думаешь о Майкле? – Мне кажется, что он **работяга**. – Но он **в немилости**, не так ли? – Да, наш босс не любит его. А что на счет Джуди? – Мне она нравится. Она всегда**трудится, как пчела**. – Ты прав. Она заслуживает бонусы компании. |
@@ -155,9 +145,6 @@
 - **cry over spilt milk** – горевать о непоправимом
 - **hot potato** – актуальная тема
 
- 
-
 | Оригинал                                                     | Перевод                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | – Tom, who do you think may be in charge of this project? – I'm not sure, but I think that Jack will cope with it easily. – If I were you, I wouldn't be so sure. Sometimes he is **a coach potato**.  – Yes, but last time he tried to solve a very big problem of the company.  – I agree. However, I think that **he bit off more than he could chew**. – But he has great advantages. He is a very sociable and reliable person.  – Ok, I will think about his nomination. | – Том, как ты думаешь, кто сможет возглавить этот проект? – Я не уверен, но думаю, что Джек легко с ним справиться. – Я бы на твоем месте не был бы так уверен. Он иногда **бездельничает**. – Да, но в последний раз он пытался решить очень большую проблему в компании. – Согласен. Однако, я думаю, что он **переоценил свои возможности**. – Но у него есть и большие преимущества. Он очень общительный и надежный человек. – Ладно, я подумаю о его назначении. |
-
