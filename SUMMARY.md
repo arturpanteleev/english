@@ -2,7 +2,11 @@
 
 * [Introduction](README.md)
 * [Артикли](article.md)
-* [Времена](tenses.md)
+* [Tenses](tenses.md)
+  * Simple
+  * Continius
+  * Present Prefect
+  * Presetn Continius Perfect
 * [Модальные глаголы](modals.md)
 * [Will be & To be going to](willAndBeGoingTo.md)
 * [Reported speach](matchingTimes.md)
@@ -12,5 +16,4 @@
 * [Предлоги](prepositions.md)
 * [Cоюзы](conjunctions.md)
 * [Relative Clause](relativeClause.md)
-* [Infinitive or Gerund](infinitive-or-gerund.md)
 
