@@ -1,121 +1,78 @@
-# Cогласование времен в английском языке
+# Согласование времен в английском языке
 
-Характерная особенность английского языка заключается в так называемом **согласовании времён**: время глагола придаточного предложения зависит от времени главного предложения.
+В английском языке существует два способа как передать чье-либо высказывание:**прямая речь **и **косвенная**\(непрямая\)**речь**.
 
-Правило согласования времён представляет особую трудность, когда сказуемое главного предложения выражено глаголом в одной из форм прошедшего времени.
-
-В этом случае в придаточных предложениях не могут употребляться формы настоящего и будущего времени глаголов, хотя речь идёт о действиях, которые совершаются в настоящем или будут совершаться в будущем.
-
-Если глагол в главном предложении стоит в одном из прошедших времен, то и глагол придаточного предложения должен стоять в одном из прошедших времен.
-
-В таких случаях правило согласования времен допускает три основных варианта:
-
-- Если действие в придаточном предложении происходит одновременно с действием в главном предложении, то нужно использовать [Past Simple](https://www.native-english.ru/grammar/past-simple) или [Past Continuous](https://www.native-english.ru/grammar/past-continuous):
-
-They told us, “We **are going** to the library.”
-Они сказали нам : «Мы идем в библиотеку».
-
-They told us they **were going** to the library.
-Они сказали нам, что идут в библиотеку.
-
-- Если действие в придаточном предложении предшествует действию в главном предложении, то глагол в придаточном используется в [Past Perfect](https://www.native-english.ru/grammar/past-perfect) или [Past Perfect Continuous](https://www.native-english.ru/grammar/past-perfect-continuous):
-
-We were told, “It **was raining** a lot.”
-Нам сказали: «Было много дождей».
-
-We were told that it **had been raining** a lot.
-Нам сказали, что было много дождей.
-
-- Если действие в придаточном предложении следует после действия в главном, то нужно использовать одно из времен [Future-in the-Past](https://www.native-english.ru/grammar/future-in-the-past):
-
-She said: “I **will try to get** the highest mark on the exam.”
-Она сказала: «Я постараюсь заработать на экзамене лучшую оценку».
-
-She said she **would try to get** the highest mark on the exam.
-Она сказала, что постарается заработать на экзамене лучшую оценку.
+**Direct speech**\(прямая речь\) – это буквальная передача чьего-то высказывания \(а также своего личного высказывания\), передача чьей-то речи слово в слово. Прямая речь с обеих сторон выделяется **кавычками **и отделяется от вводных слов **запятой**\(реже двоеточием\).  
 
 ## Таблица согласования времен в английском языке
 
-| Время в прямой речи    | Present Indefinite | Present Continuous | Рresent Perfect | Раst Indefinite | Раst Perfect | Future Indefinite             |
-| ---------------------- | ------------------ | ------------------ | --------------- | --------------- | ------------ | ----------------------------- |
-| Время в косвенной речи | Past Indefinite    | Past Соntinuous    | Раst Pеrfect    | Рast Perfect    | Past Perfect | Future Indefinite in the Раst |
+| **Время в прямой речи⠀** | **Время придаточного в косвенной речи⠀⠀⠀⠀⠀⠀** |
+| :--- | :--- |
+| Present Simple | Past Simple |
+| Present Continuous | Past Continuous |
+| Present Perfect | Past Perfect |
+| Past Continuous | Past Perfect Continuous |
+| Past Simple | Past Perfect |
+| Future Indefinite | Future Indefinite in the Раst |
 
-Исключения:
+**Исключения:**
 
 Время в придаточном предложении может остаться без изменения, если в нем указано точное время:
 
-He told us, “I **took part** in the Moscow Olympic games in 1980.”
-Он сказал нам: «Я принимал участие в Московских Олимпийских играх 1980 года».
-
-He told us he **took part** in the Moscow Olympic games in 1980.
-Он рассказал нам, что в 1980 году принимал участие в Московских Олимпийских играх.
+> He told us, “I **took part** in the Moscow Olympic games in 1980.”  
+> Он сказал нам: «Я принимал участие в Московских Олимпийских играх 1980 года».
+>
+> He told us he **took part** in the Moscow Olympic games in 1980.  
+> Он рассказал нам, что в 1980 году принимал участие в Московских Олимпийских играх.
 
 Или если идет речь об общеизвестном факте:
 
-Newton proved that bodies **attract** each other.
-Ньютон доказал, что тела притягивают друг друга.
+> Newton proved that bodies **attract** each other.  
+> Ньютон доказал, что тела притягивают друг друга.
 
-# Косвенная речь в английском языке
+Или если говорящий **ссылается на слова, которые только что были сказаны**:
 
-Речь какого-либо человека, передаваемая как его подлинные слова, называется прямой.
+> **Kate: "Stay with me, Mark. I will cook something delicious."**
+> – Кейт: Останься со мной, Марк. Я приготовлю что-нибудь вкусное.
+> **Mark to Elza: "Kate said she will cook something delicious."**
+> – Марк Эльзе: Кейт сказала, что приготовит что-то вкусное.
 
-Если передается только ее содержание, например, в виде дополнительных придаточных предложений, то она называется **косвенной речью**.
-
-Прямая речь выделяется кавычками и считается отдельным предложением. Обратите внимание, что, в отличие от русского языка, кавычки в английском языке пишутся вверху строки. После слов, вводящих прямую речь, обычно ставится запятая, а первое слово прямой речи пишется с большой буквы. В конце прямой речи точка или другой знак препинания ставится внутри кавычек:
-
-He said, “I need my glasses.”
-Он сказал: «Мне нужны мои очки».
-
-She told me, “It’s snowing.”
-Она сказала мне: «Идет снег».
-
-## Переход прямой речи в косвенную речь
+# Утверждения
 
 Для того, чтобы перевести прямую речь в косвенную, нужно опустить запятую после слов, вводящих прямую речь, и кавычки. Часто косвенная речь в английском языке вводится союзом **that**, который, впрочем, может быть и опущен:
 
-I said, “It is June.”
-Я сказал: «Сейчас июнь».
-
-I said that it was June. (I said it was June.)
-Я сказал, что стоял июнь.
+> I said, “It is June.”  
+> Я сказал: «Сейчас июнь».
+>
+> I said that it was June. \(I said it was June.\)  
+> Я сказал, что стоял июнь.
 
 Все личные и притяжательные местоимения должны быть изменены в зависимости от лица, от которого ведется повествование:
 
-Tom and Bob told me, “**We** need **your** dictionary.”
-Том и Боб сказали: «Нам нужен твой словарь».
-
-Tom and Bob told me that **they** need **my** dictionary.
-Том и Боб сказали, что им нужен мой словарь.
+> Tom and Bob told me, “**We** need **your** dictionary.”  
+> Том и Боб сказали: «Нам нужен твой словарь».
+>
+> Tom and Bob told me that **they** need **my** dictionary.  
+> Том и Боб сказали, что им нужен мой словарь.
 
 Все указательные местоимения и наречия времени и места в придаточном предложении должны быть изменены по смыслу предложения:
 
-this —> that
+* this —&gt; that
+* these —&gt; those
+* now —&gt; then
+* today —&gt; that day
+* tomorrow —&gt; next day
+* the day after tomorrow —&gt; 2 days later
+* yesterday —&gt; the day before
+* the day before yesterday —&gt; 2 days before
+* ago —&gt; before
+* here —&gt; there
 
-these —> those
-
-now —> then
-
-today —> that day
-
-tomorrow —> next day
-
-the day after tomorrow —> 2 days later
-
-yesterday —> the day before
-
-the day before yesterday —> 2 days before
-
-ago —> before
-
-here —> there
-
-She told me, “I will come to see you **tomorrow**.”
-Она сказала мне: «Завтра я приду тебя проведать».
-
-She told me she would come to see me **the next day**.
-Она сказала, что на следующий день придет меня проведать.
-
-Если сказуемое в главном предложении выражено глаголом в прошедшем времени, то форма глагола в придаточном предложении тоже должна быть изменена на одно из прошедших времен. Этот процесс называется [согласованием времен](https://www.native-english.ru/grammar/sequence-of-tenses).
+> She told me, “I will come to see you **tomorrow**.”  
+> Она сказала мне: «Завтра я приду тебя проведать».
+>
+> She told me she would come to see me **the next day**.  
+> Она сказала, что на следующий день придет меня проведать.
 
 ## Вопросы в косвенной речи
 
@@ -123,40 +80,43 @@ She told me she would come to see me **the next day**.
 
 **Общие вопросы** вводятся союзами **if** и **whether**:
 
-I asked, “Have you seen my pen?”
-Я спросил: «Ты видел мою ручку?»
-
-I asked him **if** he had seen my pen. (I asked him **whether** he had seen my pen.)
-Я спросил, видел ли он мою ручку.
+> I asked, “Have you seen my pen?”  
+> Я спросил: «Ты видел мою ручку?»
+>
+> I asked him **if** he had seen my pen. \(I asked him **whether** he had seen my pen.\)  
+> Я спросил, видел ли он мою ручку.
 
 **Специальные вопросы** вводятся вопросительными словами:
 
-He wondered: “Who on earth will buy this junk?”
-Он удивился: «Ну кто станет покупать эту рухлядь?»
-
-He wondered who on earth would buy that junk.
-Он удивился, кто станет покупать эту рухлядь.
+> He wondered: “Who on earth will buy this junk?”  
+> Он удивился: «Ну кто станет покупать эту рухлядь?»
+>
+> He wondered who on earth would buy that junk.  
+> Он удивился, кто станет покупать эту рухлядь.
 
 Краткий ответ на вопрос косвенной речи вводится союзом **that** без слов **yes** / **no**:
 
-She answered, “Yes, I do.”
-Она ответила: «Да».
-
-She answered that she did.
-Она ответила утвердительно.
+> She answered, “Yes, I do.”  
+> Она ответила: «Да».
+>
+> She answered that she did.  
+> Она ответила утвердительно.
 
 ## Повелительные предложения в косвенной речи
 
 Такие предложения используются со словами **to say**, **to tell**, **to order**,  **to ask**, **to beg**, а глагол в повелительном наклонении изменяется в форму [инфинитива](https://www.native-english.ru/grammar/infinitive):
 
-Mom told me, “Clear your room.”
-Мама сказала мне: «Прибери свою комнату».
+> Mom told me, “Clear your room.”  
+> Мама сказала мне: «Прибери свою комнату».
+>
+> Mom told me to clear my room.  
+> Мама сказала мне прибрать свою комнату.
+>
+> He said, “Don’t run in the corridor.”  
+> Он сказал: «Не бегайте в коридоре».
+>
+> He said not to run in the corridor.  
+> Он сказал не бегать в коридоре.
 
-Mom told me to clear my room.
-Мама сказала мне прибрать свою комнату.
 
-He said, “Don’t run in the corridor.”
-Он сказал: «Не бегайте в коридоре».
 
-He said not to run in the corridor.
-Он сказал не бегать в коридоре.

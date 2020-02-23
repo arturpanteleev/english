@@ -5,7 +5,7 @@
 * [Времена](tenses.md)
 * [Модальные глаголы](modals.md)
 * [Will be & To be going to](willAndBeGoingTo.md)
-* [Косвенная речь + согласование](matchingTimes.md)
+* [Reported speach](matchingTimes.md)
 * [Условные предложения](conditions.md)
 * [Фразовые глаголы](phrasalVerbs.md)
 * [Идиомы](idioms.md)
