@@ -30,15 +30,15 @@
 
 **Глагол «can» имеет значение: обладать физической или умственной способностью, умением выполнить действие, выраженное инфинитивом глагола, с которым сочетается «can», «could»**
 
-I can ski.   
-Я могу \(умею\) кататься на лыжах.   
+I can ski.  
+Я могу \(умею\) кататься на лыжах.  
 Can you help me? — Yes, I can. No, I can't. He cannot do this work.
 
 Глагол «can» в сочетании с глаголами, обозначающими чувства и восприятия \(to see, to hear, to feel и т. д.\), на русский язык, как правило, не переводится
 
-Can you see that tree?   
-Вы видите то дерево?   
-Can you hear the music?   
+Can you see that tree?  
+Вы видите то дерево?  
+Can you hear the music?  
 Вы слышите музыку?
 
 Глагол «саn» может выражать настоящее и будущее время.
@@ -51,20 +51,20 @@ I can give you the book tomorrow. Can you tell me the answer now?
 
 Глаголы can и could употребляются в просьбах \(«could» — более вежливо\).
 
-an I \(could I\) take your pen?   
-Можно взять вашу ручку?   
-Yes, you can.   
-No, I'm afraid you can't.   
-Could you answer my questions?   
-He могли бы вы ответить на мои вопросы?   
-Could I see you tomorrow evening?   
+an I \(could I\) take your pen?  
+Можно взять вашу ручку?  
+Yes, you can.  
+No, I'm afraid you can't.  
+Could you answer my questions?  
+He могли бы вы ответить на мои вопросы?  
+Could I see you tomorrow evening?  
 Можно с вами встретиться завтра вечером?
 
 Таким образом, «could» является не только прошедшим Временем глагола «саn», но употребляется в разговоре о настоящем и будущем.
 
 В прошедшем времени «could» имеет значение: обладать физической или умственной способностью в прошлом:
 
-I could ski very well when a boy.   
+I could ski very well when a boy.  
 Я умел кататься на лыжах очень хорошо, когда был мальчиком.
 
 ### May
@@ -79,12 +79,12 @@ May I smoke here? No, you mustn’t. No, you can't.
 
 Глагол «may» выражает также возможность в настоящем и будущем:
 
-I may see Mr. Brown this afternoon.   
+I may see Mr. Brown this afternoon.  
 Я могу \(есть такая возможность\) увидеть сегодня днем господина Брауна.
 
 Глагол «might» как прошедшее время от глагола «may»употребляется только -при .согласовании времен:
 
-Не said I might take the book.   
+Не said I might take the book.  
 Он сказал, что я могу взять книгу.
 
 ### Must
@@ -103,7 +103,7 @@ Must I go there? — Yes, you must. No, you needn't.
 
 «Mustn't» — означает «нельзя» и употребляется или в отрицательном вопрос с «May I» или в самостоятельном предложении.
 
-May I speak to you? — No, you mustn't.   
+May I speak to you? — No, you mustn't.  
 You mustn't smoke here.
 
 ### Ought  & Should
@@ -131,18 +131,18 @@ We ought to go and see Mary, but I don't think we will.You should work harder.
 
 Глагол «should» в сочетании с перфектным инфинитивом указывает на то, что действие, которое должно было осуществиться, не выполнено:
 
-You should have done this work.   
+You should have done this work.  
 Вам следовало бы сделать эту работу.
 
 ### Need
 
 **Глагол «need» в качестве модального глагола в сочетании с Indefinite Infinitive выражает необходимость совершения действия в отношении настоящего и будущего времени. «Need» употребляется в вопросительных и отрицательных предложениях, а в утвердительных — если они содержат такие наречия с отрицательным значением, какhardly, scarcely \(едва\) и др.**
 
-Need you go there so soon?   
-Нужно ли вам ехать так скоро?   
-I needn't tell you how important it is.   
-Мне не нужно говорить вам, как это важно.   
-You need hardly remind me of it.   
+Need you go there so soon?  
+Нужно ли вам ехать так скоро?  
+I needn't tell you how important it is.  
+Мне не нужно говорить вам, как это важно.  
+You need hardly remind me of it.  
 Вам едва ли надо напоминать мне об этом.
 
 Глагол «needn't» в сочетании с Perfect Infinitive употребляется в отношении прошедшего времени и означает, что не было необходимости совершать действие:
@@ -161,14 +161,14 @@ Do you need this pen? — Yes, I do. No, I don't. He didn't need this book.
 
 В этом значении формы глагола «to be» употребляются только в Present Indefinite \(в отношении настоящего и будущего времени\) и в Past Indefinite \(в отношении прошедшего времени\).
 
-We are to finish the work in two weeks.   
-Мы должны \(нам предстоит\) закончить работу через две недели.   
-I was to leave home for the first time.   
+We are to finish the work in two weeks.  
+Мы должны \(нам предстоит\) закончить работу через две недели.  
+I was to leave home for the first time.  
 Мне предстояло впервые покинуть дом.
 
 Глагол «to be» в Past Indefinite в сочетании с Perfect Infinitive указывает, что действие, которое должно было произойти, не совершилось:
 
-I was to have started work last week, but I changed my mind.   
+I was to have started work last week, but I changed my mind.  
 Я должен был начать работу на прошлой неделе, но передумал.
 
 «То be to» может употребляться в приказаниях:
@@ -183,12 +183,12 @@ I often have to travel on business.Sorry — I've got to go now.
 
 «Have got» в отличии от «to have» употребляется, когда речь идет о том, что мы обязаны делать \(а не просто вынуждены\). Форма «have got» особенно характерна для разговорной речи:
 
-I haven't got to work tomorrow.   
+I haven't got to work tomorrow.  
 Мне не нужно завтра работать \(я не обязана\).
 
 Отличие глагола «to have» от «must» в том, что глагол «to have» может иметь оттенок, выраженный русскими словами «приходится», «вынужден».
 
-I have to go now.   
+I have to go now.  
 Я вынужден сейчас уйти.
 
 «Must» часто используется, когда речь идет о долженствовании, которое зависит от говорящего: когда я говорю «I must do», это значит, что я считаю это необходимым,«have \(got\) to» употребляется, когда речь идет о долженствовании, которое исходит«извне». Сравните:
@@ -207,12 +207,12 @@ You don't have to tell John about it. You needn't tell John about it.
 
 **Глагол «shall» употребляется в качестве модального в вопросах в 1-м и 3-м лице единственного и множественного числа с целью получения указаний или распоряжений от лица, к которому обращен вопрос:**
 
-— Shall we read? — Читать?   
+— Shall we read? — Читать?  
 — Yes, please \(Do, Please\). — No, you needn't.
 
 Глагол «will» употребляется во втором лице для выражения просьбы:
 
-Will you give me a pen, please.   
+Will you give me a pen, please.  
 Дайте мне, пожалуйста, ручку.
 
 Употребление вспомогательных и модальных глаголов во избежание повторения
@@ -223,12 +223,12 @@ Will you give me a pen, please.
 
 В русском языке таким оборотам соответствуют обороты типа:
 
-«Я тоже», «Он тоже» и т.п.   
+«Я тоже», «Он тоже» и т.п.  
 Bill likes tennis and so does Tom. You can come in my car and so can your dog. She hasn't got much time and neither have I. Peter can't ski well. Neither \(nor\) can I.
 
 При противопоставлении используется «but»:
 
-He likes to ski but I don't. Pete can skate well but I can't.   
+He likes to ski but I don't. Pete can skate well but I can't.  
 Пит хорошо катается на коньках, а я нет.
 
 В разговорной речи оборот типа «So do I» заменяется предложением типа «me, too» или «She does, too».
@@ -239,11 +239,11 @@ Henry is a student. Me, too = So am I. Betty is, too = So is Betty. Henry didn't
 
 Оборот «to have smth done» выражает действие, совершаемое не самим лицом, выраженным подлежащим, а кем-то другим для него, за него:
 
-I had my car cleaned.   
-Я помыл машину \(не сам, а за меня это сделал кто-то другой\).   
-Не had his hair cut.   
-Он постригся.   
-I want to have my watch repaired.   
+I had my car cleaned.  
+Я помыл машину \(не сам, а за меня это сделал кто-то другой\).  
+Не had his hair cut.  
+Он постригся.  
+I want to have my watch repaired.  
 Мне нужно починить часы.
 
 Вопросительная и отрицательная форма этого оборота образуется при помощи вспомогательного глагола «do» во временах группы Indefinite \(Present и Past\).
@@ -283,7 +283,7 @@ You'll be allowed to go to the canteen in fifteen minutes.
 
 В предложениях с двойным отрицанием употребляется сложно-подчиненное предложение:
 
-Не может быть, чтобы он не знал \(что он не знает\) этого.   
+Не может быть, чтобы он не знал \(что он не знает\) этого.  
 **It can't be he doesn't know it.**
 
 Хвостовой вопрос строится следующим образом:

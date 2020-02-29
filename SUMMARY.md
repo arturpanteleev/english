@@ -10,7 +10,7 @@
 * [Модальные глаголы](modals.md)
 * [Будущее время\(вариации\)](willAndBeGoingTo.md)
 * [Reported speach](matchingTimes.md)
-* [Conditional sentences](conditions.md)
+* [Conditionals](conditions.md)
 * [Phrasal Verbs](phrasalVerbs.md)
 * [Idioms](idioms.md)
 * [Предлоги](prepositions.md)
