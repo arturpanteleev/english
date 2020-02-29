@@ -2,26 +2,28 @@
 
 **А**ртикль не является самостоятельной частью речи. Это служебное слово, которое является определением существительного. В английском языке имеется два артикля — неопределенный, a **\(an\)** и определенный **\(the\)**, которые стоят перед существительным, а если у существительного есть определение, то перед ним **\(a boy, a nice boy\).**
 
+## Неопределенный артикль
+
 Неопределенный артикль произошел от числительного **«one» - «один»** и поэтому преимущественно употребляется перед единственным числом исчисляемого существительного. Форма **«а»** употребляется перед существительными, которые начинаются с согласного звука: **a man, a kite;** форма **«an»** — перед гласным звуком: **an apple, an actor.**
 
-## Неопределенный артикль употребляется:
+**Употребляется:**
 
 **1\)** в назывном предложении, т. е. когда существительное представляет конкретного человека или вещь.
 
-**It's a man. It's a nice man.**
+> It's a man. It's a nice man.
 
 **2\)** Когда лицо или предмет является еще неизвестным собеседнику и упоминается впервые или к упоминанию добавляется какое-то новое качество.
 
-I see a boy. I see a big boy.  
-A cat is on the shelf. A black cat is on the shelf.
+> I see a boy. I see a big boy.  
+> A cat is on the shelf. A black cat is on the shelf.
 
 **3\)** Обычно неопределенный артикль ставится после оборота there is, выража- ющего, как правило, идею неопределенности.
 
-There is a book on the table.
+> There is a book on the table.
+>
+> На столе есть \(какая-то\) книга.
 
-На столе есть \(какая-то\) книга.
-
-Неопределенный артикль не употребляется:
+**Не употребляется:**
 
 **1\)** перед существительными во множественном числе **a dog — dogs.**
 
@@ -29,22 +31,24 @@ There is a book on the table.
 
 **3\)** перед названием приема пищи, если перед ним нет определения
 
-We have dinner at six.  
-Ho: We had a good dinner at six.
+> We have dinner at six.  
+> Ho: We had a good dinner at six.
 
 **4\)** перед именами собственными
 
-Pete is a nice boy.
+> Pete is a nice boy.
 
 **5\)** если есть определение в виде местоимения
 
-It's his pen. Give me this book. Take some pen.
+> It's his pen. Give me this book. Take some pen.
 
 ## Определенный артикль
 
 Определенный артикль **«the»** произошел от указательного местоимения **«that»** — **«тот»**и употребляется как с исчисляемыми существительными в единственном и множественном числе, так и с неисчисляемыми существительными.
 
-Определенный артикль указывает, что слово, при котором он стоит, известно собеседнику и выделено из класса однородных предметов или лиц. Употребляется
+Определенный артикль указывает, что слово, при котором он стоит, известно собеседнику и выделено из класса однородных предметов или лиц. 
+
+**Употребляется:**
 
 * Перед существительными, являющимися единственными в мире: **the sun, the sky, the weather, the moon, the North, the English language.**
 * Являющимися единственными в данной ситуации:
@@ -70,7 +74,7 @@ It's his pen. Give me this book. Take some pen.
 > the girl in blue  
 > the place where I saw you.
 
-Определенный артикль не употребляется:
+**Не употребляется:**
 
 **1\)** перед названиями стран, городов, имен собственных:
 
@@ -82,25 +86,25 @@ the USA, the United Kindom, the Congo, the Sudan, the Netherlands, the Strand \(
 
 **2\)** после существительного в притяжательном падеже или притяжательного местоимения:
 
-the boy's books, my books.
+> the boy's books, my books.
 
 **3\)** с существительными **church \(церковь\), market \(рынок\), college, school, hospital, work, bed**, если они используются в своем прямом назначении:
 
-we go to school \(to college\) to study  
-to bed to sleep  
-to hospital as patients  
-to work as workers  
-to church to pray \(молиться\).
+> we go to school \(to college\) to study  
+> to bed to sleep  
+> to hospital as patients  
+> to work as workers  
+> to church to pray \(молиться\).
 
 HO:
 
-I went to the school to speak with the headmaster.  
-He returned from the hospital where he visited his brother.
+> I went to the school to speak with the headmaster.  
+> He returned from the hospital where he visited his brother.
 
 **4\).** с существительным home
 
-She left home.  
-He reached home.
+> She left home.  
+> He reached home.
 
 Как правило, артикли не переводятся, но при переводе статей как общественно- политического, литературного, так и технического характера неопределенный артикль может переводиться с числительным **«один» \(со значением «какой-то»\).**
 
