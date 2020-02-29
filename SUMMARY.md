@@ -8,7 +8,7 @@
   * Present Prefect
   * Presetn Continius Perfect
 * [Будущее время\(вариации\)](willAndBeGoingTo.md)
-* [Модальные глаголы](modals.md)
+* [Modal verbs](modals.md)
 * [Reported speach](matchingTimes.md)
 * [Conditionals](conditions.md)
 * [Prepositions](prepositions.md)
