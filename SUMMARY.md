@@ -7,13 +7,13 @@
   * Continius
   * Present Prefect
   * Presetn Continius Perfect
-* [Модальные глаголы](modals.md)
 * [Будущее время\(вариации\)](willAndBeGoingTo.md)
+* [Модальные глаголы](modals.md)
 * [Reported speach](matchingTimes.md)
 * [Conditionals](conditions.md)
+* [Prepositions](prepositions.md)
+* [Conjunctions](conjunctions.md)
+* [Relative Clause](relativeClause.md)
 * [Phrasal Verbs](phrasalVerbs.md)
 * [Idioms](idioms.md)
-* [Предлоги](prepositions.md)
-* [Cоюзы](conjunctions.md)
-* [Relative Clause](relativeClause.md)
 
