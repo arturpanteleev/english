@@ -16,4 +16,5 @@
 * [Relative Clause](relativeClause.md)
 * [Phrasal Verbs](phrasalVerbs.md)
 * [Idioms](idioms.md)
+* [Others](others.md)
 
