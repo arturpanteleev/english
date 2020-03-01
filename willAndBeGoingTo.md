@@ -58,6 +58,8 @@
 
 > I’ll get it — Я возьму / трубку/. Я отвечу.
 
+Remember that it is more common to say** I don't think he'll pass the exam** rather than I think he won't pass the exam.
+
 ## Future Continuous
 
 Future Continuous Tense — будущее продолженное время С помощью этого времени мы говорим о процессах, которые произойдут в будущем. То есть мы подчеркиваем длительность действий, которые произойдут.
