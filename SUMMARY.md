@@ -9,7 +9,7 @@
   * [Perfect Continius  ](tenses/presetn-continius-perfect.md)
 * [Будущее время\(вариации\)](willAndBeGoingTo.md)
 * [Modal verbs](modals.md)
-* [Reported speach](matchingTimes.md)
+* [Reported\(Indirect\) speach](matchingTimes.md)
 * [Pronouns](pronouns.md)
 * [Conditionals](conditions.md)
 * [Prepositions](prepositions.md)

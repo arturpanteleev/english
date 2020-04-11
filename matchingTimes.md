@@ -57,16 +57,16 @@
 
 Все указательные местоимения и наречия времени и места в придаточном предложении должны быть изменены по смыслу предложения:
 
-* this —&gt; that
-* these —&gt; those
-* now —&gt; then
-* today —&gt; that day
-* tomorrow —&gt; next day
-* the day after tomorrow —&gt; 2 days later
-* yesterday —&gt; the day before
-* the day before yesterday —&gt; 2 days before
-* ago —&gt; before
-* here —&gt; there
+* **this —&gt; that**
+* **these —&gt; those**
+* **now —&gt; then**
+* **today —&gt; that day**
+* **tomorrow —&gt; next day**
+* **the day after tomorrow —&gt; 2 days later**
+* **yesterday —&gt; the day before**
+* **the day before yesterday —&gt; 2 days before**
+* **ago —&gt; before**
+* **here —&gt; there**
 
 > She told me, “I will come to see you **tomorrow**.”  
 > Она сказала мне: «Завтра я приду тебя проведать».
@@ -74,7 +74,25 @@
 > She told me she would come to see me **the next day**.  
 > Она сказала, что на следующий день придет меня проведать.
 
-## Вопросы в косвенной речи
+## Вопросы в косвенной речи\(Indirect Questions\)
+
+Вопросительные предложения в [косвенной речи](http://englishstyle.net/grammar/composite-sentence/direct-and-indirect-speech/) называются **косвенными вопросами**\(**Indirect questions**\). Состав косвенного вопроса такой же, как и утвердительного предложения. Вопросительный знак не ставится. Временные формы глагола,[прилагательные](http://englishstyle.net/grammar/adjective/the-adjective-in-english/),[местоимения](http://englishstyle.net/grammar/pronoun/pronoun/)и др. в косвенных вопросах изменяются таким же образом, как и в косвенных утверждениях.
+
+1. В косвенных вопросах[вспомогательный глагол do](http://englishstyle.net/grammar/verb/to-do/)\(**do**,**does**или**did**\) не употребляется.
+
+| **Прямая речь \(Direct speech\)** | **Косвенная речь \(Indirect speech\)** |
+| :--- | :--- |
+| “What**do**you**want**?” Что ты хочешь? | I asked what he**wanted**. Я спросил, что он хочет. |
+
+1. Когда вопросительное слово \(**who**,**which**,**whose**,**when**,**why**,**how many**,**how much**,**how long**\) отсутствует, то для введения косвенного вопроса может употребляться союз **whether **или **if**, которые имеют значение **частицы ли**. Далее производятся те же изменения, как и при обращении в косвенную речь вопроса, начинающегося с вопросительного слова или вопросительной группы слов.
+
+| **Прямая речь \(Direct speech\)** | **Косвенная речь \(Indirect speech\)** |
+| :--- | :--- |
+| He asked her, “Are you cold?” Он спросил ее: «Ты замерзла?» | He asked her **if **\(**whether**\) she was cold. Он спросил ее, замерзла ли она. |
+
+1. Косвенный вопрос **всегда вводится союзом whether**, а не if, если дальше стоит союз **or**.
+
+Примеры: I don’t know **whether **he will go home **or **stay here. – Я не знаю, пойдет ли он домой или останется здесь
 
 В косвенной речи вопросы имеют прямой порядок слов, а вопросительный знак в конце предложения заменяется на точку.
 
@@ -117,8 +135,6 @@
 >
 > He said not to run in the corridor.  
 > Он сказал не бегать в коридоре.
-
-
 
 # Reporting Verbs
 
