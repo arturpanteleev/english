@@ -26,7 +26,7 @@
 
 ## Список модальных глаголов
 
-### Can / Could 
+### Can / Could
 
 **Глагол «can» имеет значение: обладать физической или умственной способностью, умением выполнить действие, выраженное инфинитивом глагола, с которым сочетается «can», «could»**
 
@@ -91,22 +91,65 @@ I may see Mr. Brown this afternoon.
 
 **Глагол «must» выражает необходимость, моральную обязанность или приказ совершить действие и соответствует в русском языке глаголам «должен», «нужно», «надо».**
 
-We must hurry, it's late. I must study a lot.
+> We must hurry, it's late. I must study a lot.
 
 «Must» употребляется в отношении настоящего и будущего времени. В отношении прошедшего времени «must» употребляется только в косвенной речи:
 
-Не said he must speak to the doctor.
+> Не said he must speak to the doctor.
 
 В ответах на вопрос с «must» в утвердительной форме употребляется «must», в отрицательной — «needn't».
 
-Must I go there? — Yes, you must. No, you needn't.
+> Must I go there? — Yes, you must. No, you needn't.
 
 «Mustn't» — означает «нельзя» и употребляется или в отрицательном вопрос с «May I» или в самостоятельном предложении.
 
-May I speak to you? — No, you mustn't.  
-You mustn't smoke here.
+> May I speak to you? — No, you mustn't.  
+> You mustn't smoke here.
 
-### Should / Ought  
+### То have to
+
+**Глагол «to have» \(или «to have got»\) с последующим инфинитивом с частицей «to» имеет модальное значение долженствования. По значению он приближается к модальному глаголу «must»:**
+
+I often have to travel on business.Sorry — I've got to go now.
+
+«Have got» в отличии от «to have» употребляется, когда речь идет о том, что мы обязаны делать \(а не просто вынуждены\). Форма «have got» особенно характерна для разговорной речи:
+
+> I haven't got to work tomorrow. Мне не нужно завтра работать \(я не обязана\).
+
+Отличие глагола «to have» от «must» в том, что глагол «to have» может иметь оттенок, выраженный русскими словами «приходится», «вынужден».
+
+> I have to go now. Я вынужден сейчас уйти.
+
+«Must» часто используется, когда речь идет о долженствовании, которое зависит от говорящего: когда я говорю «I must do», это значит, что я считаю это необходимым,«have \(got\) to» употребляется, когда речь идет о долженствовании, которое исходит«извне». Сравните:
+
+> I must stop smoking \(I want to\). I must go to the dentist \(I've got a toothache\). You've got to go and see the boss \(He wants you to\). Catholics have to go to church on Sundays \(Their religion tells them to\). I've got to see the dentist tomorrow \(I have an appointment\). This is a lovely party but we've got to go because of our babysitter.
+
+Вопросительная и отрицательная формы глагола «to have» образуется при помощи вспомогательного глагола «to do»:
+
+> Do you have to do this work here?
+
+Вместо «don't have to» или «haven't got to» часто употребляется «needn't»:
+
+You don't have to tell John about it. You needn't tell John about it.
+
+### Must vs. Have to
+
+Модальный глагол**must**служит для выражения обязанности \(obligation\) и необходимости \(necessity\), на русский язык в утвердительных предложениях переводится как «должен, обязан».
+
+Глагол **have to **не выглядит как модальный глагол, тем не менее, выполняет его функцию.**Have to **выступает в роли **must **в прошедшем и будущем временах.**  
+**Основное различие в использовании **must **и **have to**– это их эмоциональный аспект.
+
+Если **must **означает «должен сделать что-то, потому что мне так нужно или хочется», то **have to **означает «должен что-то сделать, потому что так нужно кому-то, это не мое желание – я вынужден это сделать».
+
+> I have to pay the bills because my wife is ill.
+>
+> I must stop smoking. It’s really bad for my health.
+
+В отрицательных предложениях **must **выражает строжайший запрет «нельзя, запрещено»:_You mustn’t smoke here_.
+
+В то время как **have to **в отрицательных предложенияхпереводится как «тебе не следует, ты не должен, тебе не обязательно, но можешь сделать, если хочешь» и нуждается во вспомогательном глаголе: _You **don’thave to **pay for this_.
+
+### Should / Ought
 
 **Глагол «ought» в сочетании с Indefinite Infinitive выражает моральный долг, желательность действия, относящегося к настоящему и будущему.**
 
@@ -174,34 +217,6 @@ I was to have started work last week, but I changed my mind.
 «То be to» может употребляться в приказаниях:
 
 You are to do your homework before you watch TV. Tell her she's not to be back late. No one is to leave the building.
-
-### То have to
-
-**Глагол «to have» \(или «to have got»\) с последующим инфинитивом с частицей «to» имеет модальное значение долженствования. По значению он приближается к модальному глаголу «must»:**
-
-I often have to travel on business.Sorry — I've got to go now.
-
-«Have got» в отличии от «to have» употребляется, когда речь идет о том, что мы обязаны делать \(а не просто вынуждены\). Форма «have got» особенно характерна для разговорной речи:
-
-I haven't got to work tomorrow.  
-Мне не нужно завтра работать \(я не обязана\).
-
-Отличие глагола «to have» от «must» в том, что глагол «to have» может иметь оттенок, выраженный русскими словами «приходится», «вынужден».
-
-I have to go now.  
-Я вынужден сейчас уйти.
-
-«Must» часто используется, когда речь идет о долженствовании, которое зависит от говорящего: когда я говорю «I must do», это значит, что я считаю это необходимым,«have \(got\) to» употребляется, когда речь идет о долженствовании, которое исходит«извне». Сравните:
-
-I must stop smoking \(I want to\). I must go to the dentist \(I've got a toothache\). You've got to go and see the boss \(He wants you to\). Catholics have to go to church on Sundays \(Their religion tells them to\). I've got to see the dentist tomorrow \(I have an appointment\). This is a lovely party but we've got to go because of our babysitter.
-
-Вопросительная и отрицательная формы глагола «to have» образуется при помощи вспомогательного глагола «to do»:
-
-Do you have to do this work here?
-
-Вместо «don't have to» или «haven't got to» часто употребляется «needn't»:
-
-You don't have to tell John about it. You needn't tell John about it.
 
 ### Shall & Will
 
