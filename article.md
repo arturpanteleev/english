@@ -135,4 +135,4 @@ At the moment he couldn't tell me about it. В то время он не мог 
 
 Внимание! Breakfast, lunch, dinner, НО We had a very nice dinner (если есть прилагательное).
 
-![](.gitbook/assets/article.jpg)
+![](media/article.jpg)
